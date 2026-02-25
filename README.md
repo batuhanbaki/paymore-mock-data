@@ -6,6 +6,13 @@
 > Tüm istekler bu base URL üzerinden yapılacaktır.
 ```
 
+## Figma Base URL
+```
+**Figma URL:** https://www.figma.com/design/mK4Cpgfh4asUIdsRHIbnBT/Paymore-telemetri-poc-design?node-id=0-1&p=f
+> Dosyaya erişim isteği atılması gerekmektedir.
+```
+
+
 ## Authentication
 Tüm endpoint'ler (login hariç) `Authorization` header'ında Bearer token gerektirir:
 ```
